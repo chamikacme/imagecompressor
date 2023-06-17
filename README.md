@@ -68,7 +68,7 @@ The Image Compression Tool is a Python application that allows you to compress i
 8. After compression is complete, view the initial and final file sizes, as well as the compression ratio.
 <p align="center"><img src="https://i.imgur.com/NM3GVzA.png" alt="Alt Text" width="400" height="500"></p>
 
-9. Click the "Finish" button to exit the application.
+9. Click the "Exit" button to exit the application.
 
 ## License
 
