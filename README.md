@@ -85,5 +85,3 @@ This Image Compression Tool is built using Python and utilizes the Tkinter libra
 ## Support
 
 For any inquiries or support requests, please contact me through details in my profile.
-
-```
